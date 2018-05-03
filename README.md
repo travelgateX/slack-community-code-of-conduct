@@ -19,7 +19,7 @@ Scope
 
 We expect all members of the TravelgateX community, including paid and unpaid agents, administrators, users, facilitators, and vendors to abide by this Code of Conduct at all times in all TravelgateX community venues, online and in person, and in one-on-one communications pertaining to TravelgateX affairs.
 
-This policy covers the usage of the TravelgateX forums, as well as the TravelgateX website, TravelgateX related events, and any other services offered under the name of NodeBot(s) (collectively, the "Service"). It also applies to behavior in the context of the TravelgateX Open Source project communities, including but not limited to public GitHub repositories, IRC channels, social media, mailing lists, and public events.
+This policy covers the usage of the TravelgateX forums, as well as the TravelgateX website, TravelgateX related events, and any other services offered under the name of TravelgateX (collectively, the "Service"). It also applies to behavior in the context of the TravelgateX Open Source project communities, including but not limited to public GitHub repositories, IRC channels, social media, mailing lists, and public events.
 
 This Code of Conduct is in addition to, and does not in any way nullify or invalidate, any other terms or conditions related to use of the Service.
 
